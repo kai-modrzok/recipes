@@ -2,12 +2,12 @@
 title: Iskender Auflauf mit Schafskäsesauce
 tags: [Gemüse, Hauptspeise, Rind, Sommer, Auflauf, Saucen, Geflügel, Herbst, Türkei]
 source: https://www.chefkoch.de/rezepte/1682401276434700/Iskender-Auflauf-mit-Schafskaesesauce.html
-created: 2020-04-12T21:57:17.452+02:00
+created: 2020-04-21T19:22:53.203+02:00
 ---
 
 # Iskender Auflauf mit Schafskäsesauce
 
-![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/834988/crop-960x640/iskender-auflauf-mit-schafskaesesauce.jpg)
+![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/834988/crop-360x240/iskender-auflauf-mit-schafskaesesauce.jpg) ![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/879464/crop-360x240/iskender-auflauf-mit-schafskaesesauce.jpg) ![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/259403/crop-360x240/iskender-auflauf-mit-schafskaesesauce.jpg) ![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/366011/crop-360x240/iskender-auflauf-mit-schafskaesesauce.jpg) ![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/1031339/crop-360x240/iskender-auflauf-mit-schafskaesesauce.jpg) ![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/611460/crop-360x240/iskender-auflauf-mit-schafskaesesauce.jpg) ![](https://img.chefkoch-cdn.de/rezepte/1682401276434700/bilder/265421/crop-360x240/iskender-auflauf-mit-schafskaesesauce.jpg)
 
 |                         **Zutaten** | 4 Portion(en)                                                 |
 | ----------------------------------: | :------------------------------------------------------------ |
