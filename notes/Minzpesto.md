@@ -1,8 +1,8 @@
 ---
+tags: [Dips, Europa, Frühling, Geheimrezept, Haltbarmachen, Italien, Saucen]
 title: Minzpesto
-tags: [Italien, Europa, Saucen, Dips, Frühling, Geheimrezept, Haltbarmachen]
-source: https://www.chefkoch.de/rezepte/869571192371437/Minzpesto.html
-created: 2020-05-02T08:38:42.041+02:00
+created: '2020-05-02T06:38:42.041Z'
+modified: '2020-05-24T14:07:36.976Z'
 ---
 
 # Minzpesto
@@ -27,3 +27,8 @@ Das Pesto in Gläser füllen und mit Olivenöl bedecken.
 Hält monatelang im Kühlschrank.
 
 Passt gut zu Gemüsesuppe, zu Ratatouille, zu Nudeln mit Meeresfrüchten oder Fisch
+
+## @atze
+- 40g Minze
+- 40g Pistazien/Erdnüsse/Cashews
+
